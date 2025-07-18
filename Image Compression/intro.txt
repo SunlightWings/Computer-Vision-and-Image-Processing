@@ -1,0 +1,2 @@
+Implemented thus far:
+- JPEG from scratch (minus the RLE, Huffman encoding)
